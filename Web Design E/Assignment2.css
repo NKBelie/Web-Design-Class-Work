@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+}
+body{
+    background-image: url(Sky.jpg);
+}
+input{
+    border-radius: 4px;
+}
+/*.A {
+     background-color: aliceblue;
+}
+.B{
+    background-color: aliceblue;
+}*/
+.B img{
+    width: 12%;
+}
+th{
+    color: white;
+    height: 30px;
+}
+h3{
+    color: white;
+}
+h4{
+    margin-bottom: 30px;
+    margin-top: 3px;
+}
+b{
+    font-size: 20px;
+}

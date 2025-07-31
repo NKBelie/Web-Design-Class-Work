@@ -1,0 +1,12 @@
+body{
+	background-image: url(image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+table{
+	 background-color: whitesmoke;
+}
